@@ -20,7 +20,7 @@ System.out.print("* ");
 System.out.println();   
 }   
 }   
-}  </h2>
+} Hello world </h2>
 </body>
 </html>
  
